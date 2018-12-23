@@ -137,7 +137,7 @@ class Coach():
             #self.NUM_STEP.append(10 * i)
             #plotEloScore(i)
             try:
-                shutil.copyfile("log/*", "/content/drive/My Drive/log")
+                copy_tree("log/", "/content/drive/My Drive/log")
             except:
                 print("fail to copy log")
                 pass
@@ -196,7 +196,7 @@ class Coach():
         plt.legend()
         plt.savefig('./log/log_%d.png'%iter)
         try:
-            shutil.copyfile("log/*", "/content/drive/My Drive/log")
+            copy_tree("log/", "/content/drive/My Drive/log")
         except:
             print("fail to copy log")
             pass
