@@ -9,6 +9,7 @@ import time, os, sys
 from pickle import Pickler, Unpickler
 from random import shuffle
 import shutil
+from distutils.dir_util import copy_tree
 
 
 class Coach():
@@ -78,6 +79,8 @@ class Coach():
         """
         if not os.path.exists("./log"):
             os.makedirs("log")
+        if not os.path.exists("./temp"):
+            os.makedirs("temp")
         for i in range(1+self.args.start_iter, self.args.numIters+1+self.args.start_iter):
             # bookkeeping
             print('------ITER ' + str(i) + '------')
