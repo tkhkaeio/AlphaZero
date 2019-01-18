@@ -1,11 +1,12 @@
 # Alpha"Othello" Zero
 
-[AZ0](./images/AZ0.pdf)
+![AZ0](./images/AZ0.pdf)
+Alpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
-[AZ](./images/AZ.gif)
+![AZ](./images/AZ.gif)
 
 please run this scripts in Google Colaboratory
-Alpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
+
 
 1. Select GPU.
 
@@ -69,20 +70,20 @@ files.download(<file>)
 ## Result
 Alpha Zero explanation&result: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
-[result1](/images/1.pdf)
+![result1](/images/1.pdf)
 
-[result2](/images/2.pdf)
+![result2](/images/2.pdf)
 
-[result3](/images/3.pdf)
+![result3](/images/3.pdf)
 
-[result4](/images/4.pdf)
+![result4](/images/4.pdf)
 
-[result5](/images/5.pdf)
+![result5](/images/5.pdf)
 
-[result6](/images/6.pdf)
+![result6](/images/6.pdf)
 
-[result7](/images/7.pdf)
+![result7](/images/7.pdf)
 
-[result8](/images/8.pdf)
+![result8](/images/8.pdf)
 
-[result9](/images/9.pdf)
+![result9](/images/9.pdf)
