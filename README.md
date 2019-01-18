@@ -1,4 +1,4 @@
-#Alpha"Othello" Zero
+# Alpha"Othello" Zero
 
 please implement this scripts in Google Colaboratory
 
