@@ -11,7 +11,7 @@ please run this scripts in Google Colaboratory
 
 1. Select GPU.
 
-![gpu](./images/gpu.png | width=100)
+<img src="./images/gpu.png", width=50%>
 
 2. Mount your Google Drive
 ~~~python
