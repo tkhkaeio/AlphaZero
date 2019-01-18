@@ -1,11 +1,15 @@
 # Alpha"Othello" Zero
 
+[AZ0](./images/AZ0.pdf)
+
+[AZ](./images/AZ.gif)
+
 please run this scripts in Google Colaboratory
-ALpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
+Alpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
 1. Select GPU.
 
-<img src="./images/gpu.png", width=80%>
+[gpu](./images/gpu.png)
 
 2. Mount your Google Drive
 ~~~python
@@ -63,23 +67,22 @@ files.download(<file>)
 ~~~
 
 ## Result
-ALpha Zero explanation&result: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
+Alpha Zero explanation&result: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
-<img src="./images/1.pdf">
+[result1](/images/1.pdf)
 
-<img src="./images/2.pdf">
+[result2](/images/2.pdf)
 
-<img src="./images/3.pdf">
+[result3](/images/3.pdf)
 
-<img src="./images/4.pdf">
+[result4](/images/4.pdf)
 
-<img src="./images/5.pdf">
+[result5](/images/5.pdf)
 
-<img src="./images/6.pdf">
+[result6](/images/6.pdf)
 
-<img src="./images/7.pdf">
+[result7](/images/7.pdf)
 
-<img src="./images/8.pdf">
+[result8](/images/8.pdf)
 
-<img src="./images/9.pdf">
-
+[result9](/images/9.pdf)
