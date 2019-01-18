@@ -1,6 +1,6 @@
 # Alpha"Othello" Zero
 
-![AZ0](./images/AZ0.pdf)
+![AZ0](./images/AZ0.png)
 
 Alpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
@@ -71,20 +71,20 @@ files.download(<file>)
 ## Result
 Alpha Zero explanation&result: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
-![result1](/images/1.pdf)
+![result1](/images/1.png)
 
-![result2](/images/2.pdf)
+![result2](/images/2.png)
 
-![result3](/images/3.pdf)
+![result3](/images/3.png)
 
-![result4](/images/4.pdf)
+![result4](/images/4.png)
 
-![result5](/images/5.pdf)
+![result5](/images/5.png)
 
-![result6](/images/6.pdf)
+![result6](/images/6.png)
 
-![result7](/images/7.pdf)
+![result7](/images/7.png)
 
-![result8](/images/8.pdf)
+![result8](/images/8.png)
 
-![result9](/images/9.pdf)
+![result9](/images/9.png)
