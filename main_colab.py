@@ -10,14 +10,15 @@ args = dotdict({
     'updateThreshold': 0.6,
     'maxlenOfQueue': 200000,
     'numMCTSSims': 25,
-    'arenaCompare': 40, #40
+    'arenaCompare': 40, #
     'cpuct': 1,
     'checkpoint': '/content/drive/My Drive/temp',
     'load_model': True,
     'load_folder_file': ('/content/drive/My Drive/temp','best.pth.tar'),
-    'load_folder_examples': ('/content/drive/My Drive/temp','checkpoint_55.pth.tar'), ##
+    'load_folder_examples': ('/content/drive/My Drive/temp','checkpoint_1.pth.tar'), ##
+    'save_log_dir': "/content/drive/My Drive/log", 
     'numItersForTrainExamplesHistory': 20,
-    'start_iter': 55, ##
+    'start_iter': 1, ##
     'prevEloScore': [0,0], ##
     'print': False,
 })

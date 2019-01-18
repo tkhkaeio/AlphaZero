@@ -10,12 +10,13 @@ args = dotdict({
     'updateThreshold': 0.6,
     'maxlenOfQueue': 200000,
     'numMCTSSims': 25,
-    'arenaCompare': 40, #40
+    'arenaCompare': 40, #
     'cpuct': 1,
     'checkpoint': './log',
     'load_model': False,
     'load_folder_file': ('./temp','best.pth.tar'),
-    'load_folder_examples': ('./temp','checkpoint_55.pth.tar'), ##
+    'load_folder_examples': ('./temp','checkpoint_1.pth.tar'), ##
+    'save_log_dir': None, 
     'numItersForTrainExamplesHistory': 20,
     'start_iter': 0, ##
     'prevEloScore': [0,0], ##

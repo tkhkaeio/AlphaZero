@@ -140,7 +140,7 @@ class Coach():
             #self.NUM_STEP.append(10 * i)
             #plotEloScore(i)
             try:
-                copy_tree("log/", "/content/drive/My Drive/log")
+                copy_tree("log/", self.args.save_log_dir)
             except:
                 print("fail to copy log")
                 pass
@@ -165,11 +165,6 @@ class Coach():
         with open(filename, "wb+") as f:
             Pickler(f).dump(self.trainExamplesHistory)
         f.closed
-        try:
-            shutil.copyfile("temp/%s"%filename, "/content/drive/My Drive/temp")
-        except:
-            print("Fail to copy example")
-            pass
         
     def loadTrainExamples(self):
         modelFile = os.path.join(self.args.load_folder_examples[0], self.args.load_folder_examples[1])
@@ -198,8 +193,3 @@ class Coach():
         plt.ylabel("Elo")
         plt.legend()
         plt.savefig('./log/log_%d.png'%iter)
-        try:
-            copy_tree("log/", "/content/drive/My Drive/log")
-        except:
-            print("fail to copy log")
-            pass
