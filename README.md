@@ -1,6 +1,7 @@
 # Alpha"Othello" Zero
 
 ![AZ0](./images/AZ0.pdf)
+
 Alpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
 ![AZ](./images/AZ.gif)
