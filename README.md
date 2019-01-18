@@ -1,8 +1,10 @@
 # Alpha"Othello" Zero
 
-please implement this scripts in Google Colaboratory
+please run this scripts in Google Colaboratory
+ALpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
 1. Select GPU.
+
 <img src="./images/gpu.png", width=80%>
 
 2. Mount your Google Drive
@@ -59,3 +61,25 @@ os.chdir('./AlphaZero')
 ~~~python
 files.download(<file>)
 ~~~
+
+## Result
+ALpha Zero explanation&result: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
+
+<img src="./images/1.pdf">
+
+<img src="./images/2.pdf">
+
+<img src="./images/3.pdf">
+
+<img src="./images/4.pdf">
+
+<img src="./images/5.pdf">
+
+<img src="./images/6.pdf">
+
+<img src="./images/7.pdf">
+
+<img src="./images/8.pdf">
+
+<img src="./images/9.pdf">
+
