@@ -5,6 +5,7 @@
 Alpha Zero explanation: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
 ![AZ](./images/AZ.gif)
+Alpha Go, DeepMind: [here](https://deepmind.com/research/alphago/)
 
 please run this scripts in Google Colaboratory
 
@@ -68,8 +69,10 @@ os.chdir('./AlphaZero')
 files.download(<file>)
 ~~~
 
+Reference: [here](https://web.stanford.edu/~surag/posts/alphazero.html)
+
 ## Result
-Alpha Zero explanation&result: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
+Alpha Zero explanation & result: [here](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
 
 ![result1](/images/1.png)
 
